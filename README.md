@@ -81,4 +81,39 @@ Used to record the details of project risks or issues identified.
 8. Risk Raised (Name of who identified the Risk)
 9. Owner (Person responsible to manage the risk)
 10. Severity (Level of impact or harm the issue may cause to a project or organization)
-  
+### 3. Launch or Execution & Performance & Control
+#### (i). Change Request Document
+Is a form used to request, approve and track project related changes.
+> Project Change Form
+1. Project Name
+2. 2. Date
+3. Change Number
+---
+Request
+1. Originator Name
+2. Describe the proposed change
+3. Reasons for the desired change
+4. Anticipated Impact
+5. Desired Outcome
+---
+Evaluation
+1. Receiver Name
+2. Potential change Synopsis
+3. Estimated Impact
+4. Decision
+#### (ii). Defects Log / Issue Tracker
+Errors or something is not working as expected
+> Should have the following
+1. Defect ID
+2. Defected Date
+3. Status
+4. User impact
+5. Business Impact
+6. Subject
+7. Reported by
+8. Defect / Issue Description
+9. Internal Update
+10. Assigned to
+11. How it was fixed
+12. Open / Closed
+13. Where is it fixed
