@@ -117,3 +117,21 @@ Errors or something is not working as expected
 11. How it was fixed
 12. Open / Closed
 13. Where is it fixed
+### 4. Executive Status Report
+Is a document that provides an overview of the progress, status, and performance of a project or a business to executive-level stakeholders. Highlights most important things at a given time. Describe the progress of a project within a specific time period and compares it against the project plan.
+> A Monthly Project Status Report Should have the following
+* Actual Date
+* Status period  between this planned date and between this actual date
+* Milestone Status, Start and Finish
+* Issue / Risks
+### 5. Project Close 
+####Lesson Learned Log
+This captures and share knowledge about what has worked well and what could have been done differently during the planning, management and delivery of an improvement project
+> Lesson Learned Log Should have
+* Project Name
+* Project Manager Name
+* Project Description
+* ID , Date Identified, Subject Issue, Situation
+* Recommendation & Comments Follow up
+### 6. Closure Report
+Is a document which formalizes the closure of the project provides confirmation that the criteria for customer acceptance have been met & requests sign-off from the project sponsor to close the project.
