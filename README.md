@@ -125,7 +125,7 @@ Is a document that provides an overview of the progress, status, and performance
 * Milestone Status, Start and Finish
 * Issue / Risks
 ### 5. Project Close 
-####Lesson Learned Log
+#### Lesson Learned Log
 This captures and share knowledge about what has worked well and what could have been done differently during the planning, management and delivery of an improvement project
 > Lesson Learned Log Should have
 * Project Name
